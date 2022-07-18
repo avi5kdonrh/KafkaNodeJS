@@ -2,11 +2,11 @@
 
 ## Getting Started
 
-npm install kafkajs
+``npm install kafkajs``
 
 Add the Producer.js and Consumer.js files to the project and provide the connection options.
 
 Then run:
 
-node Producer.js
-node Consumer.js
+- ``node Producer.js``
+- ``node Consumer.js``
